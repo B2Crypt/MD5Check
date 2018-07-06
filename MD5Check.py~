@@ -1,4 +1,6 @@
 import hashlib
+import os
+import sys
 
 _getfile = input("Filelocation: ")
 orginal_key = input("Original key (if any): ")
